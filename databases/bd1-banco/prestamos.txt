@@ -1,0 +1,4 @@
+id_presta|id_cliente|monto|monto_pen|estado|fecha_soli
+PR001|CL001|10000.00|8000.00|activo|20/01/2025
+PR002|CL002|5000.00|2500.00|activo|25/03/2025
+PR003|CL003|7500.00|0.00|pagado|10/05/2025
